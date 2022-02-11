@@ -3,7 +3,7 @@
 El ambiente de trabajo para GNS3 cuenta con las siguientes partes que se presentan en la Figura. Estas le permitirán agregar dispositivos al área de trabajo, realizar las conexiones, monitorear las conexiones y el estado activo o inactivo de los dispositivos (Resumen de Topología) de la topología y le muestra el nivel de procesamiento y memoria que utiliza el computador donde tiene instalado GNS3 (Resumen de servidores)
 
 <p align="center">
-  <img src="../images/gns3_intro/gns3_gui.png">
+  <img width=560 src="../images/gns3_intro/gns3_gui.png">
 </p>
 
 ## Contenido
@@ -17,7 +17,7 @@ El ambiente de trabajo para GNS3 cuenta con las siguientes partes que se present
 ## Selector de dispositivos
 
 <p align="center">
-  <img width=200 src="../images/gns3_intro/menu_dispositivos_gns3.png">
+  <img width=220 src="../images/gns3_intro/menu_dispositivos_gns3.png">
 </p>
 Por defecto no hay Routers disposnibles. Estos se agregan como se muestra en la siguiente parte. 
 
@@ -32,7 +32,7 @@ Por defecto no hay Routers disposnibles. Estos se agregan como se muestra en la 
 ### 2. Seleccione IOS Routers, y _click_ en nuevo
 
 <p align="center">
-  <img width=460 src="../images/gns3_intro/agregar_router1.png">
+  <img width=520 src="../images/gns3_intro/agregar_router1.png">
 </p>
 
 ### 3. Seleccione la imagen del dispositivo correspondiente y haga click en siguiente
@@ -84,7 +84,7 @@ La captura o traza de paquetes se realzia en GNS3 usando Wireshark. Esta captura
 Por ejemplo, para inciar la captura en un enlace de tipo Frame Realy se puede realizar lo siguiente
 
 <p align="center">
-  <img width=420 src="../images/gns3_intro/gns3_capture.gif">
+  <img width=500 src="../images/gns3_intro/gns3_capture.gif">
 </p>
 
 
@@ -93,5 +93,5 @@ Por ejemplo, para inciar la captura en un enlace de tipo Frame Realy se puede re
 Para acceder a la consola del Router y poder configurar el dispositivo ingresando los comandos según los requermientos de la red a implementar, se hace _click_ derecho sobre el dispositivo y después en consola.
 
 <p align="center">
-  <img width="600" src="../images/gns3_intro/router_access_console.gif">
+  <img width="660" src="../images/gns3_intro/router_access_console.gif">
 </p>
