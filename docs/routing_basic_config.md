@@ -218,7 +218,7 @@ En este otro ejemplo se muestra la configuración de R3, que se encuentra dentro
 
 
 <p align="center">
-  <img width="220" src="../images/routes_config1/eth_simple_RIP_cisco.png">
+  <img width="220" src="../images/routes_config1/eth_simple_rip_cisco.png">
 </p>
 
 Desde el _modo de configuración global_ se configura la versión 2 del protocolo, indicando las subredes que avisará a los vecinos y se configura la interfaz e0/0 como pasiva debido a que PC1 es un host que no responde peticiones RIPv2 y además, no necesita recibir la información de enrutamiento ya que esta le es asignada estáticamente.
